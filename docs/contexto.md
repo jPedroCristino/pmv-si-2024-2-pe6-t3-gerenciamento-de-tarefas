@@ -23,12 +23,11 @@ Objetivos Específicos:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O gerenciamento eficiente de tarefas é um desafio constante em ambientes de trabalho dinâmicos. A necessidade de organizar e priorizar atividades de forma eficaz é crucial para garantir a produtividade e o sucesso dos projetos. No entanto, muitas ferramentas disponíveis no mercado não oferecem uma solução completa ou integrada, obrigando os usuários a utilizarem múltiplos aplicativos para atender às suas necessidades.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Este projeto visa preencher essa lacuna ao criar uma plataforma centralizada que facilite o gerenciamento de tarefas, proporcionando uma interface amigável e recursos de integração que atendam tanto a usuários individuais quanto a equipes. A motivação para este desenvolvimento se baseia na crescente demanda por soluções que otimizem o tempo e os recursos, permitindo que os usuários alcancem suas metas de forma mais eficiente.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Além disso, a implementação de funcionalidades colaborativas visa melhorar a comunicação e a transparência no ambiente de trabalho, contribuindo para a realização bem-sucedida de projetos e para a satisfação dos usuários.
 
 ## Público-Alvo
 
@@ -54,14 +53,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-002| Emitir um relatório de tarefas realizadas no mês   | MÉDIA |
+|RF-003| Permitir que o usuário categorize e priorize tarefas   | MÉDIA |
+|RF-004| Permitir a integração com calendários digitais (Google Calendar, Outlook, etc.)  | ALTA |
+|RF-005| Permitir que o usuário compartilhe tarefas com outros usuários   | MÉDIA |
+|RF-006| Permitir que o usuário receba notificações de prazos e lembretes de tarefas  | MÉDIA |
+|RF-007| Permitir que o usuário anexe arquivos ou notas às tarefas | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| Deve possuir uma interface responsiva que funcione bem em dispositivos móveis e Web. | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| O sistema deve ser intuitivo e fácil de usar, garantindo uma boa experiência aos usuários. | MÉDIA | 
+|RNF-004| A plataforma deve ser compatível com os principais navegadores (Chrome, Firefox, Safari) | MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
