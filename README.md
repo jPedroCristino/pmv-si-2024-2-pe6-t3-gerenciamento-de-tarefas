@@ -11,7 +11,7 @@ O projeto em desenvolvimento tem como objetivo criar um sistema web de gerenciam
 ## Integrantes
 
 * Lucas Vinicius Oliveira Mendes
-* Nome completo do aluno 2
+* João Victor Dias Lopes
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
