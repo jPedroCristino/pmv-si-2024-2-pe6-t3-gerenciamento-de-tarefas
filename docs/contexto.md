@@ -31,16 +31,42 @@ Além disso, a implementação de funcionalidades colaborativas visa melhorar a 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+##Personas
+1. João Paulo
+•	Idade: 29 anos
+•	Ocupação: Desenvolvedor de Software
+•	Tecnologia: Altamente proficiente com tecnologia; usa várias ferramentas de produtividade e integração.
+•	Objetivos: Deseja uma plataforma centralizada para gerenciar tarefas pessoais e profissionais, integrando com ferramentas como GitHub e Google Calendar.
+•	Desafios: Lidar com muitas tarefas simultâneas e evitar a sobrecarga de informações; precisa de notificações e lembretes para manter o foco.
+•	Uso do Sistema: Utiliza o sistema para criar listas de tarefas diárias, categorizá-las por prioridade e integrar com seu calendário. Aproveita as notificações para manter o ritmo no trabalho.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+2. Marina Oliveira
+•	Idade: 40 anos
+•	Ocupação: Gerente de Projetos
+•	Tecnologia: Usuária intermediária; familiarizada com softwares de gestão de projetos e ferramentas colaborativas.
+•	Objetivos: Busca uma maneira eficiente de distribuir tarefas para sua equipe e acompanhar o progresso, garantindo que todos os prazos sejam cumpridos.
+•	Desafios: Dificuldade em monitorar a produtividade da equipe e evitar a duplicação de tarefas.
+•	Uso do Sistema: Utiliza o sistema para delegar tarefas e acompanhar o progresso de cada membro da equipe. Gosta de visualizar o status dos projetos em um painel e gerar relatórios semanais.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+3. Beatriz Mendes
+•	Idade: 35 anos
+•	Ocupação: Freelancer em Marketing Digital
+•	Tecnologia: Usuária ativa de ferramentas digitais, como planilhas e aplicativos de comunicação.
+•	Objetivos: Organizar suas atividades de trabalho e projetos pessoais em uma única plataforma, mantendo-se dentro dos prazos estabelecidos.
+•	Desafios: Conciliar várias tarefas de clientes diferentes e organizar o tempo de forma eficiente.
+•	Uso do Sistema: Usa o sistema para criar e priorizar tarefas de acordo com cada cliente. Aproveita a funcionalidade de anexar documentos e notas para manter tudo organizado. Utiliza o sistema para planejar seu dia e acompanhar o tempo gasto em cada tarefa.
+
+4.Carlos Eduardo
+•	Idade: 22 anos
+•	Ocupação: Estudante de Engenharia e Estagiário em uma empresa de TI
+•	Tecnologia: Familiarizado com tecnologia, mas usa principalmente aplicativos gratuitos e ferramentas que não exigem configurações complexas.
+•	Objetivos: Carlos quer uma maneira eficiente de gerenciar suas tarefas acadêmicas e de estágio, sem perder prazos. Ele precisa de uma plataforma simples que o ajude a organizar e priorizar suas atividades diárias.
+•	Desafios: Luta para equilibrar suas responsabilidades acadêmicas com o trabalho de estágio. Frequentemente se sente sobrecarregado com a quantidade de tarefas e tem dificuldade em priorizá-las. Precisa de uma solução que o ajude a manter o foco e a gerenciar o tempo de forma eficaz.
+•	Uso do Sistema: Carlos usa o sistema para anotar suas tarefas e compromissos, classificá-los por urgência e importância, e verificar seu progresso ao longo do dia. A funcionalidade de lembretes e notificações é crucial para ele, pois ajuda a não perder prazos importantes, tanto na universidade quanto no estágio.
+
+
+
+
 
 # Especificações do Projeto
 
