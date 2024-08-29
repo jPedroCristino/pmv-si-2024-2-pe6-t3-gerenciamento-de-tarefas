@@ -1,27 +1,25 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O avanço tecnológico tem impactado profundamente a maneira como gerenciamos nossas atividades diárias, tanto no ambiente profissional quanto no pessoal. A necessidade de organizar tarefas, definir prioridades e acompanhar o progresso é fundamental para manter a produtividade e cumprir prazos. No entanto, muitas pessoas e equipes enfrentam desafios com ferramentas dispersas e métodos ineficientes, resultando em perda de tempo e falhas na execução de projetos.
+
+Este projeto tem como objetivo desenvolver um sistema web de gerenciamento de tarefas que facilite a organização e priorização de atividades. O sistema oferecerá uma plataforma centralizada para que os usuários possam registrar, acompanhar e colaborar em suas tarefas, otimizando o fluxo de trabalho e garantindo o cumprimento de metas. O público-alvo deste sistema inclui profissionais de diversas áreas, equipes de projetos e indivíduos que buscam uma maneira eficiente de gerenciar suas responsabilidades diárias.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Em muitos ambientes de trabalho, a falta de uma ferramenta eficiente para gerenciar tarefas resulta em desorganização, perda de prazos e baixa produtividade. As pessoas frequentemente recorrem a métodos improvisados, como anotações em papel ou aplicativos que não se integram com outras ferramentas que utilizam, levando à sobrecarga cognitiva e frustração.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Além disso, as equipes enfrentam dificuldades para manter a transparência sobre o andamento das atividades e para colaborar de maneira eficaz, o que pode comprometer a execução de projetos. A ausência de uma plataforma unificada e acessível agrava esses problemas, tornando desafiador o gerenciamento de tarefas em um contexto de trabalho dinâmico e colaborativo.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Esse sistema será usado tanto por indivíduos que desejam organizar suas tarefas pessoais quanto por equipes que necessitam de uma solução integrada para gerenciar projetos e atividades coletivas. A aplicação será baseada em tecnologias web modernas, com foco em uma interface intuitiva e em recursos de integração com calendários e outras ferramentas digitais já utilizadas pelos usuários.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo Geral: Desenvolver um sistema web de gerenciamento de tarefas que permita aos usuários organizar, priorizar e acompanhar suas atividades de forma centralizada, melhorando a eficiência e a produtividade.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos Específicos:
+
+1. Criar uma plataforma intuitiva que permita o registro, categorização e priorização de tarefas de maneira simples e acessível.
+2. Desenvolver funcionalidades de integração com ferramentas existentes, como calendários digitais, para facilitar a sincronização e o acompanhamento de prazos.
+3. Implementar recursos de colaboração, permitindo que equipes possam compartilhar tarefas, acompanhar o progresso de projetos e manter a comunicação efetiva dentro da plataforma.
 
 ## Justificativa
 
